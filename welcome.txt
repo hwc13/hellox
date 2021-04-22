@@ -1,2 +1,5 @@
 hello
-hello, nice to meet you
+nice to meet you
+
+드디어 깃 허브와 연결이 되엇습니다
+
