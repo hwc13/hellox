@@ -20,7 +20,4 @@ public class Calc {
 	public int getSum() {
 		return this.sum;
 	}
-	public static void main(String[] args) {
-		System.out.println();
-	}
 }
